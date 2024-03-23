@@ -18,7 +18,7 @@ dependencies:
   screenshot:
     git:
       url: https://github.com/trungungtoan-agilityio/screenshot.git
-      ref: master
+      ref: main
 
   flutter_colorpicker: ^1.0.3
   extended_image: ^8.1.0
